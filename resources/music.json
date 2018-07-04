@@ -1,0 +1,18 @@
+{
+    "music":[
+        "https://s3.amazonaws.com/musicfile2/BOB-CAT.mp3",
+        "https://s3.amazonaws.com/musicfile2/Howl.mp3",
+        "https://s3.amazonaws.com/musicfile2/Cat2.mp3",
+        "https://s3.amazonaws.com/musicfile2/Cheetah2.mp3",
+        "https://s3.amazonaws.com/musicfile2/Chipmonk%2BTalk.mp3",
+        "https://s3.amazonaws.com/musicfile2/LotsOfBats.mp3",
+        "https://s3.amazonaws.com/musicfile2/bear-roar.mp3",
+        "https://s3.amazonaws.com/musicfile2/baboon1.mp3",
+        "https://s3.amazonaws.com/musicfile2/bat1.mp3",
+        "https://s3.amazonaws.com/musicfile2/bat2.mp3",
+        "https://s3.amazonaws.com/musicfile2/batsInwild.mp3",
+        "https://s3.amazonaws.com/musicfile2/beargrowl.mp3",
+        "https://s3.amazonaws.com/musicfile2/wolf6.mp3",
+        "https://s3.amazonaws.com/musicfile2/wolf8.mp3"
+    ]
+}

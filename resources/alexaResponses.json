@@ -1,0 +1,9 @@
+{
+    "responses":{
+        "welcome":"welcome to scary noises! say start to start the noises",
+        "help":"hi I am scary noises, I make creepy noises.please say start to start noises.",
+        "somethingElse":"sorry i was not able to understand you. please say start to start noises.",
+        "good_bye":"ok bye",
+        "reprompt":"<speak>please say start to start noises  </speak>"
+    }
+}
